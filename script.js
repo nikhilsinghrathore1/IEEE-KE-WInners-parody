@@ -95,6 +95,7 @@ tl.from(".moving-date",{
                y:"100%"
 })
 console.log("final testing after deploying")
+console.log("one more testing after setting the correct api link")
 
 tl.from(".event-cont",{
         opacity:0,
