@@ -94,6 +94,7 @@ tl.from(".moving-date",{
                // stagger:0.3,
                y:"100%"
 })
+console.log("final testing after deploying")
 
 tl.from(".event-cont",{
         opacity:0,
